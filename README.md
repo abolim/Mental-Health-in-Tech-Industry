@@ -1,5 +1,5 @@
 # DATA 512 Assignment A4: Final Project
-Author: Aboli Moroney
+Author: Aboli Moroney <br>
 Date Created: 03-Nov-2020
 
 ## Purpose
