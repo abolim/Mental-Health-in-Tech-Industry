@@ -23,6 +23,7 @@ data-512-a2
 |   │   1-Support_Tech_Mental_Health
 |   │   2-Experienced_MentalHealthIssues
 |   │   3-Medical_HelpResources_Mental_Health
+|   │   3-Medical_HelpResources_Mental_Health_Funnel
 |   │   4-Physical_vs_Mental_Health
 |   │   5-LeavePolicy_Mental_Health
 
@@ -55,11 +56,7 @@ The detailed exploratory data analysis, code, graphs, insights and observations 
 
 ## Dependencies
 The following libraries are required to run the Jupyter Notebook successfully:
-  import pandas as pd
-  import numpy as np
-  import seaborn as sns
-  import matplotlib.pyplot as plt
-  import plotly.express as px
+  plotly-orca, pandas, numpy, seaborn, matplotlib.pyplot, plotly.express
 
 ## Conclusion
 Based on this ethnagraphic study, the analysis for all research questions suggests that the provisions in tech industry are not adequate for mental health issues yet. The findings and insights of this research should be generalized with caution as the survey respondents may not be a fair representation of the entire population in the tech industry and workplaces.
